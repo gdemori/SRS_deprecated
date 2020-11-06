@@ -12,6 +12,7 @@
 #' @import purrr
 #' @return Player's of Interest Infographics
 #' @author Andrés E. González Demori
+#' @export
 
 poi_app <- function(poi, distance, input_directory, output_directory) {
   
